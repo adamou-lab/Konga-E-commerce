@@ -1,0 +1,21 @@
+{
+
+"orderItems": [
+    {
+        "product": "63ec8a381b43912dc00428d3",
+        "quantity": 2
+    },
+    {
+        "product": "63ecacc3dbaab0f6dbd46cf9",
+        "quantity": 3
+    }
+],
+"total": 200000,
+"name": "Sani Ali",
+"phone": "09056789089",
+"streetAddress": "No. 231 Marmara street",
+"city": "Kano",
+"state": "Kano",
+"LGA": "Nasarawa"
+
+}
